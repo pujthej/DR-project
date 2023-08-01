@@ -1,1 +1,1 @@
-# DR-project
+# RetinAI : Diabetic Retinopathy Detection
